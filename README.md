@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+XD here, I like C language (that's what I made of!).
